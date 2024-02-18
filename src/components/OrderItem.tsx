@@ -1,4 +1,4 @@
-import { Button, Checkbox, Input } from "@chakra-ui/react";
+import { Button, Input } from "@chakra-ui/react";
 import { FormatPrice } from "../lib/utils";
 import {
   resolvers,
